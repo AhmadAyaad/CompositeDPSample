@@ -1,0 +1,11 @@
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\obj\Debug\netcoreapp2.1\CopositePatternSample.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\obj\Debug\netcoreapp2.1\CopositePatternSample.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\obj\Debug\netcoreapp2.1\CopositePatternSample.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\obj\Debug\netcoreapp2.1\CopositePatternSample.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\bin\Debug\netcoreapp2.1\CopositePatternSample.deps.json
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\bin\Debug\netcoreapp2.1\CopositePatternSample.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\bin\Debug\netcoreapp2.1\CopositePatternSample.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\bin\Debug\netcoreapp2.1\CopositePatternSample.dll
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\bin\Debug\netcoreapp2.1\CopositePatternSample.pdb
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\obj\Debug\netcoreapp2.1\CopositePatternSample.dll
+C:\Users\ahmed.ayaad\source\repos\CopositePatternSample\CopositePatternSample\obj\Debug\netcoreapp2.1\CopositePatternSample.pdb
